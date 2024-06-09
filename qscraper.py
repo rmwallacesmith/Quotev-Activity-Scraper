@@ -18,9 +18,9 @@ print("Working...")
 pageOffset = ''
 count = 0
 
-outfile = open(fname,'w')
+outfile = open(fname,'w',encoding='utf-8')
 outfile.write("{} activity crawled on {}".format(user,datetime.now()))
-outfile = open(fname,'a')
+outfile = open(fname,'a',encoding='utf-8')
 
 while True:
     sleep(.1)
