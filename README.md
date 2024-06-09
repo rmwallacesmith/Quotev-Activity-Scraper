@@ -7,6 +7,6 @@ How to use (until I figure out how to make an executable):
  - Open the terminal or command prompt and navigate to where you saved the script. (e.g. "cd Downloads")
  - Enter "python qscraper.py" without quotes. Windows might make you install Python.
  - Follow the instructions. When it finishes scraping, it should output the date of your first post.
- - Look in the same folder as the script for a text file called <your URL>_activity.txt.
+ - Look in the same folder as the script for a text file called \<your URL>_activity.txt.
 
 her-impervious-condensation.tumblr.com
